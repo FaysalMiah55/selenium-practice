@@ -1,0 +1,7 @@
+I want to develop an tkinter or streamlit app - where it has the below below fields
+
+1) Input Fields: Where I will put any text
+2) Submit button.
+3) Table:Show the output
+
+Operations: If you click on submit, the given text will be on google search button. then collect all web links in the first three pages in google. Store the all weblinks in a collection. Show these results in the gui table.
